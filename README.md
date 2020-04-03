@@ -1,2 +1,2 @@
 # python-sample-scripts
-A collection of python practice scripts that could definitely built on
+A collection of python practice scripts I did for practice
